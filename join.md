@@ -3,18 +3,15 @@ layout: default
 title: Join
 ---
 
-We are constantly looking for smart and enthusiastic people to work with. You
-can find more details regarding interesting project ideas
-[here](https://prl-prg.github.io/student-projects.html).
+We are looking for smart and enthusiastic people who are interested in programming language, systems, and formal methods research and would like to join our team at Czech Technical University in Prague.
 
-Possible openings might be available for Bachelor, Master, and PhD students as
-well as Post-Doc researchers. If you think you might be interested in joining
-us, feel free to contact via email at [j.vitek@neu.edu](mailto:j.vitek@neu.edu)
+You can find more details regarding interesting project ideas [here](https://prl-prg.github.io/student-projects.html).
 
-When you send an email state briefly your past experience, publication track
-record, past supervisors, as well as attach a your CV.
+Positions are available for Bachelor, Master, and PhD students as well as postdocs.
 
-Please make sure to include answers for the following questions:
+We are accepting applications on a continuing basis. Please state your past experience, publication track record, past supervisors, and attach your CV. Make sure to include answers for the following questions:
 
 1. What aspect of research is appealing to you?
 1. What is your career goal?
+
+If you have any questions or would like to apply send email to Christoph Kirsch, [ck@cs.uni-salzburg.at](mailto:ck@cs.uni-salzburg.at)
