@@ -14,4 +14,4 @@ We are accepting applications on a continuing basis. Please state your past expe
 1. What aspect of research is appealing to you?
 1. What is your career goal?
 
-If you have any questions or would like to apply send email to Christoph Kirsch, [ck@cs.uni-salzburg.at](mailto:ck@cs.uni-salzburg.at)
+If you have any questions or would like to apply send an email to Christoph Kirsch, [ck@cs.uni-salzburg.at](mailto:ck@cs.uni-salzburg.at)

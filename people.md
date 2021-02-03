@@ -44,7 +44,7 @@ people:
     - Joined Czech Technical University, 2017
     - PhD, Poznań University of Technology, 2017
     note: "I am interested in contributing to programming language research, which is a new field to me. I have a background in distributed computing, concurrency, and transactional memory. I am currently exploring the R language, its compilation, tracing, and static analysis."
-    
+
   - type: alumni
     name: Guido Chari
     photo: guido_chari.jpg
@@ -81,7 +81,7 @@ people:
     - Ph.D., Sorbonne Université, 2019
     - Joined Czech Technical University, 2020
     note: "My research interests include real time systems, multimedia systems and programming languages. Most recently, I have been working on the R language."
-   
+
   - type: researcher
     name: Petr Maj
     photo: petr_maj.jpg
@@ -106,7 +106,7 @@ people:
     - Joined Czech Technical University, 2019
     - BS, Southern Federal University, 2018
     note: "I'm interested in PL design and implementation, compilers, and functional programming. I used to work on generic programming in Haskell. I also worked at SFedU on an educational programming language PascalABC.NET and explored syntactic sugar models. Currently, I am exploring the Racket language and macro system."
-    
+
   - type: researcher
     name: Hyeyoung Shin
     photo: hyeyoung_shin.jpg
@@ -121,10 +121,11 @@ people:
     name: Jan Ječmen
     photo: jan_jecmen.jpg
     title: Researcher
+    web: https://janjecmen.github.io
     email: jan.jecmen@gmail.com
     bio:
     - Joined Czech Technical University, 2016
-    note: "I am a master's student at FIT CTU. I am interested in implementation of programming languages."
+    note: "I am a PhD student at FIT CTU. I am interested in implementation of programming languages. I work currently on R."
 # joined project June 2019
 
   - type: admin
