@@ -12,7 +12,7 @@ publications:
  - year: 2021
    title: "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation"
    authors: "Artem Pelenitsyn, Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek"
-   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (OOPSLA)"
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    short_publication: "OOPSLA'21"
 ## TODO: badges, links
 #    badges:
@@ -31,7 +31,7 @@ publications:
  - year: 2021
    title: "Promises Are Made To Be Broken: Migrating R to Strict Semantics"
    authors: "Aviral Goel, Jan Ječmen, Sebastián Krynski, Olivier Flückiger, Jan Vitek"
-   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (OOPSLA)"
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    short_publication: "OOPSLA'21"
 ## TODO: badges, links
 #    badges:
@@ -50,7 +50,7 @@ publications:
  - year: 2021
    title: "Why We Eval in the Shadows"
    authors: "Aviral Goel, Pierre Donat-Bouillud, Filip Křikava, Christoph Kirsch, Jan Vitek"
-   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity (OOPSLA)"
+   publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
    short_publication: "OOPSLA'21"
 ## TODO: badges, links
 #    badges:
@@ -69,7 +69,7 @@ publications:
  - year: 2021
    title: "ASE: A Value Set Decision Procedure for Symbolic Execution"
    authors: "A.S. Abyaneh, C.M. Kirsch"
-   publication: "Proc. IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+   publication: "Proc. IEEE/ACM International Conference on Automated Software Engineering"
    short_publication: "ASE'21"
 ## TODO: badges, links
 #    badges:
