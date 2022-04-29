@@ -29,6 +29,19 @@ publications:
 ##### 2021 #####
 
  - year: 2021
+   title: "Last-use Opacity: A Strong Safety Property for Transactional Memory with Prerelease Support"
+   authors: "Konrad Siek, Paweł T. Wojciechowski"
+   publication: "Distributed Computing"
+   short_publication: "DIST"
+   links:
+   - text: PDF
+     link: https://link.springer.com/content/pdf/10.1007/s00446-022-00420-2.pdf
+   - text: DOI
+     link: https://doi.org/10.1007/s00446-022-00420-2
+   grants:
+   - BC
+
+ - year: 2021
    title: "Type Stability in Julia: Avoiding Performance Pathologies in JIT Compilation"
    authors: "Artem Pelenitsyn, Julia Belyakova, Benjamin Chung, Ross Tate, Jan Vitek"
    publication: "Proc. ACM SIGPLAN Conference on Systems, Programming, Languages, and Applications: Software for Humanity"
